@@ -75,8 +75,8 @@ crossorigin="anonymous"></script>
         </div>
       </div>
       <div class="row">
-        <div class="col-md-4 col-sm-12 col-xs-12"> <img src="../../../gif/mypic.png"
-            alt="mypic" class="img-fluid" height="350%" width="370%"> </div>
+        <div class="col-md-4 col-sm-12 col-xs-12"> <img src="image/mypic.png" alt="mypic"
+            class="img-fluid" height="350%" width="370%"> </div>
         <div class="col-md-8 col-sm-12 col-xs-12">
           <div class="nes-container is-dark with-title">
             <h3 class="title">My Socials</h3>
@@ -146,7 +146,7 @@ crossorigin="anonymous"></script>
           Education </h3>
         <div class="nes-container is-dark">
           <div class="row">
-            <div class="col-xs-2"><img src="../../image/myuni.png" alt="myuni" style="width: 133px; height: 131px;"></div>
+            <div class="col-xs-2"><img src="image/myuni.png" alt="myuni" style="width: 133px; height: 131px;"></div>
             <div class="col-xs-10"><br>
             </div>
             <div class="col-xs-10">Slipakorn University &nbsp; </div>
