@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+
+      rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+
+      crossorigin="anonymous">
+    <link type="text/css" rel="stylesheet" href="css/styleprofile.css">
+  </head>
+  <body>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+
+integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+
+crossorigin="anonymous"></script>
+    <style>
+    
+      
+      @font-face {
+        
+        font-family: 'Pixeboy';
+        font-style: normal;
+        font-weight: normal;
+        src: url('Pixeboy.woff') format('woff');
+        
+      }
+    
+    
+    </style>
+    <nav class="navbar navbar-expand-lg navbar-light mynav">
+      <div class="container"> <a class="navbar-brand " style="font-family:'Pixeboy'; font-size: 90px; color:white;"
+
+          href="#">WELCOME !</a> <button class="navbar-toggler" type="button" data-toggle="collapse"
+
+          data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
+
+          aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+          <ul class="navbar-nav">
+            <li class="nav-item"> <a class="nav-link" style="font-family:'Pixeboy'; font-size: 30px; color: white;"
+
+                href="#">Profile</a> </li>
+            <li class="nav-item"> <a class="nav-link" style="font-family:'Pixeboy'; font-size: 30px; color: white;"
+
+                href="#">Project</a> </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <br>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://unpkg.com/nes.css@latest/css/nes.min.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap"
+
+      rel="stylesheet">
+    <nav style="padding: 20px; border-bottom: 3px solid #ccc; margin-bottom: 60px">
+      <h2> <i class="nes-icon coin"></i> Content Creator </h2>
+    </nav>
+    <div class="row">
+      <div class="col-xs-12
+                col-sm-8                col-md-6                col-lg-4">
+        <div class="box"></div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-9 col-xs-12">
+          <div class="nes-balloon from-left">
+            <p> Hello World. This is Pattaraporn mapanya. i  <em class="nes-icon star"></em>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4 col-sm-12 col-xs-12"> <img src="../../../gif/mypic.png"
+
+            alt="mypic" height="350" width="370"> </div>
+        <div class="col-md-8 col-sm-12 col-xs-12">
+          <div class="nes-container is-dark with-title">
+            <h3 class="title">My Socials</h3>
+            <div class="div">
+              <div class="lists"> <a href="https://www.facebook.com/profile.php?id=100003538308567&amp;mibextid=LQQJ4d">
+                  <i class="nes-icon facebook"></i> </a> <a href="https://instagram.com/p.plloty?igshid=OGQ5ZDc2ODk2ZA%3D%3D&amp;utm_source=qr">
+                  <i class="nes-icon instagram"></i> </a> </div>
+              <a href="https://youtube.com/@phattharaphonmapanya1891?si=L10KMVccZ5AOh156">
+                <i class="nes-icon youtube"></i> </a> <a href="https://twitter.com/lrlmxojy_">
+                <i class="nes-icon twitter"></i> </a> </div>
+          </div>
+          <div class="nes-container with-title">
+            <h3 class="title">Things I Do</h3>
+            <div class="div">
+              <div class="lists">
+                <ul class="nes-list is-disc">
+                  <li>Part-time job</li>
+                  <li>Content Creator</li>
+                  <li>Photographer</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="nes-container with-title">
+          <h3 class="title">My skills</h3>
+          <div class="row">
+            <div class="col-sm-4 col-xs-12">MS Word</div>
+            <div class="col-sm-8 col-xs-12"> <progress class="nes-progress is-success"
+
+                value="90" max="100"> </progress> </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-4 col-xs-12">PS Photoshop</div>
+            <div class="col-sm-8 col-xs-12"> <progress class="nes-progress is-success"
+
+                value="75" max="100"> </progress> </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-4 col-xs-12">Excle</div>
+            <div class="col-sm-8 col-xs-12"> <progress class="nes-progress is-success"
+
+                value="95" max="100"> </progress> </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-4 col-xs-12">Photopea</div>
+            <div class="col-sm-8 col-xs-12"> <progress class="nes-progress is-success"
+
+                value="95" max="100"> </progress> </div>
+          </div>
+        </div>
+        <div class="nes-container with-title is-dark">
+          <h3 class="title">My language</h3>
+          <div class="row">
+            <div class="col-sm-4 col-xs-12">English</div>
+            <div class="col-sm-8 col-xs-12"> <progress class="nes-progress is-success"
+
+                value="90" max="100"> </progress> </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-4 col-xs-12">F</div>
+            <div class="col-sm-8 col-xs-12"> <progress class="nes-progress is-success"
+
+                value="70" max="100"> </progress> </div>
+          </div>
+          <div class="row">
+            <div class="col-sm-4 col-xs-12">J</div>
+            <div class="col-sm-8 col-xs-12"> <progress class="nes-progress is-success"
+
+                value="55" max="100"> </progress> </div>
+          </div>
+        </div>
+        <h3 class="topic-title"> <i class="nes-icon star"></i> Previous
+          Education </h3>
+        <div class="nes-container is-dark">
+          <div class="row">
+            <div class="col-xs-2"><img src="../../image/myuni.png" alt="myuni" style="width: 133px; height: 131px;"></div>
+            <div class="col-xs-10"> Slipakorn University &nbsp; </div>
+            <div class="col-xs-10"><br>
+            </div>
+            <div class="col-xs-10">Bachelor degree in Information and Library
+              Science, Faculty of Arts.</div>
+          </div>
+        </div>
+        <style>
+    body {
+        padding-bottom: 90px;
+    }
+</style> </div> </div>
+  </body>
+</html>
